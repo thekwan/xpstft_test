@@ -1,0 +1,3 @@
+PROCESSOR=ppc440_0
+REPOSITORIES=-lp /home/thekwan/Work/FPGA/device-tree/bsp/device-tree_v0_00_x/data -lp /home/thekwan/Work/FPGA/device-tree/bsp/device-tree_v0_00_x -lp /home/thekwan/Work/FPGA/device-tree/bsp -lp /home/thekwan/Work/FPGA/device-tree
+HWSPEC=../ppc_linux_lcd3_hw_platform/system.xml
